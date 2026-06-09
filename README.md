@@ -18,7 +18,7 @@ I like figuring out how things work — then making them do something useful. Ri
 ### Projects
 
 **🚦 Smart Traffic Light** — NE555 + CD4017 + ESP32, I2C LCD, 6-phase timing  
-**🐟 [AquaSmart Fish Farm](https://github.com/s-fares-nabil/aquasmart-fish-farm)** — IoT monitoring: pH, temp, DO, flow. Blynk + SD logging  
+**🐟 AquaSmart Fish Farm** — IoT monitoring: pH, temp, DO, flow. Blynk + SD logging  
 **💧 Smart Irrigation** — Arduino + soil sensors + Wi-Fi, 30% less water waste  
 **🔌 Circuit Portfolio** — 8 builds: PSU, amplifier, logic gates. Validated with scope  
 
