@@ -1,45 +1,47 @@
-# 👋 Hi, I'm Fares Elsherif
+# 👋 I'm Fares. I build systems.
 
-🎓 Mechatronics & Embedded Systems student at **Zewail City of Science and Technology**  
-🔧 Passionate about **Embedded Systems, IoT, PCB Design, and Smart Automation**  
-📍 Based in Giza, Egypt
+🎓 Communication and Information Engineering student at **Zewail City of Science and Technology** (CIE '29)  
+🔧 Embedded Systems · IoT · Automation · Control Systems  
+📍 Giza, Egypt — Seeking **Summer 2026 Internship**
 
 ---
 
 ## 🚀 About Me
 
-I'm an embedded systems enthusiast who builds real-world solutions with ESP32, Arduino, sensors, and control systems. I love bridging the gap between hardware and software — from transistor-level circuits to cloud-connected dashboards.
+I write code that talks to hardware — microcontrollers, sensors, circuits, the whole chain. From transistor-level circuits to cloud-connected dashboards, I like understanding the full stack.
 
 > ⚡ I build systems that sense, decide, and act.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
-| Category | Technologies |
-|----------|-------------|
-| **Embedded Platforms** | ESP32, Arduino Uno, ATmega328P |
-| **Programming** | C/C++, Python, Arduino IDE, VS Code |
-| **Circuit Design** | Proteus, Multisim, KiCad |
-| **Communication** | UART, I2C, SPI, Bluetooth, Wi-Fi, GSM |
-| **IoT & Cloud** | Blynk, Firebase, MQTT |
-| **Tools** | Git, PlatformIO, MATLAB, SolidWorks |
+**Languages & Frameworks:** C++ · Embedded C · Python · Arduino  
+**Hardware & Protocols:** ESP32 · Arduino · I2C · SPI · UART · PWM · ADC · GPIO  
+**Tools:** Git · VS Code · Multimeter · Breadboard · Oscilloscope  
+**Certifications:** NTI Cybersecurity Basics · DECI (Digital Egypt Cubs — MCIT)
 
 ---
 
 ## 🔬 Projects
 
-### 🐟 AquaSmart — Smart Fish Farm Monitoring System
-> IoT-based water quality monitoring with ESP32, pH, temperature, flow, and DO sensors. Features Blynk dashboard, SD logging, and alert system.
-
 ### 🚦 Smart Traffic Light System
-> Hybrid hardware/software traffic control using NE555, CD4017, and ESP32 with I2C LCD countdown display and 6-phase timing logic.
+> NE555 + CD4017 + ESP32 with I2C LCD countdown, 6-phase timing logic, ±0.05s precision.
+
+### 🐟 AquaSmart — Smart Fish Farm
+> IoT water quality monitoring: pH, temperature, dissolved oxygen, flow. Blynk dashboard + SD logging.
 
 ### 💧 Smart Irrigation System
-> Automated irrigation controller with soil moisture sensors, Wi-Fi connectivity, and adaptive scheduling — achieving 30% water waste reduction.
+> Arduino + soil moisture sensors + Wi-Fi. Adaptive scheduling, 30% water waste reduction.
 
-### 🐄 Farm Frenzy Management Game
-> Python-based desktop farm management simulation built with OOP principles and GUI interface.
+### 🔌 Circuit Design Portfolio
+> 8 discrete electronic projects: 5V power supply, common emitter amplifier, diode logic gates. Validated against real multimeter measurements.
+
+### 🐄 Farm Frenzy Management
+> C++ simulation game with 4 subsystems, OOP principles, 60 FPS core loop.
+
+### 🎮 Interactive Adventure Game
+> Python GUI text adventure with 12 branching storylines, 45 state variables, 8 endings.
 
 ---
 
@@ -49,14 +51,14 @@ I'm an embedded systems enthusiast who builds real-world solutions with ESP32, A
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/fares-elsherif-533675284)
 - [Portfolio](https://s-fares-nabil.github.io)
-- [Email Me](mailto:s-fares.nabil@zewailcity.edu.eg)
+- [Email](mailto:s-fares.nabil@zewailcity.edu.eg)
+- [LinkedIn](https://www.linkedin.com/in/fares-elsherif-123945378)
+- [GitHub](https://github.com/s-fares-nabil)
+- Phone: +20 111 141 01919
 
 ---
 
-> 🧠 "Engineering is not just a skill, it's a mindset of creating the future."
-
-Thanks for visiting my profile! Feel free to explore my repositories 🚀
+Thanks for stopping by 🚀
