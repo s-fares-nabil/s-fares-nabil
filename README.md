@@ -21,5 +21,6 @@ I like figuring out how things work — then making them do something useful. Ri
 **🐟 AquaSmart Fish Farm** — IoT monitoring: pH, temp, DO, flow. Blynk + SD logging  
 **💧 Smart Irrigation** — Arduino + soil sensors + Wi-Fi, 30% less water waste  
 **🔌 Circuit Portfolio** — 8 builds: PSU, amplifier, logic gates. Validated with scope  
+**🏠 BEITI TECK AI Smart Home** — ESP32 + face rec door, Blynk IoT, gas/fire alerts, auto fan, PIR lights — [Repo](https://github.com/s-fares-nabil/BEITI-TECK-smart-home)  
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=s-fares-nabil&show_icons=true&theme=radical&hide_rank=true&hide=stars)
