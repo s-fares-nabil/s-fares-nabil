@@ -14,5 +14,3 @@ I like figuring out how things work — then making them do something useful. Ri
 [![Email](https://img.shields.io/badge/Email-s--fares.nabil%40zewailcity.edu.eg-red)](mailto:s-fares.nabil@zewailcity.edu.eg)
 
 ---
-
-![Stats](https://github-readme-stats.vercel.app/api?username=s-fares-nabil&show_icons=true&theme=radical&hide_rank=true&hide=stars)
