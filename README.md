@@ -5,7 +5,7 @@ Seeking **Summer 2026 Internship**
 
 ---
 
-I like figuring out how things work — then making them do something useful. Right now that means embedded C++, ESP32, and control systems. Most of what I build sits at the intersection of hardware and software — traffic light controllers built with NE555 timers, fish farms with IoT dashboards, irrigation you can control from your phone.
+I like figuring out how things work — then making them do something useful. Right now that means embedded C, Microcontroller chips , and control systems. Most of what I build sits at the intersection of hardware and software — self balancing robots with PID controls, Smart homes with IoT dashboards, Fish Farms you can control from your phone.
 
 **C++ · Embedded C · Python · ESP32 · Arduino · I2C/SPI/UART · Control Systems**
 
