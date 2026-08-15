@@ -1,7 +1,7 @@
 ## Fares Elsherif
 
 CIE @ Zewail City · Embedded Systems & IoT  
-Seeking **Summer 2026 Internship**
+
 
 ---
 
